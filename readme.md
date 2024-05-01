@@ -29,3 +29,6 @@ As you can see the models average predition is pretty close to the original valu
 So just for fun I wanted to see what magnitude Earthquake would be predicted for Snow College. I went and created a new data frame with the latitude and longitude values for Snow College and ran that data frame through my predict method. The result for the magnitude prediction at Snow College is 5.947526. What this means is if an Earthquake were to happen at Snow College we would probably get about a 6.0 magnitude. <br>
 
 The Last part of my final project is a interactive map that shows the locations of each Earthquake and shows the original magnitude and the predicted magnitude.
+
+### Conclusion
+What I got from my data analysis is that Earthquakes are pretty hard to predict their magnitude even if you have years of data to go from since you just don't know where an Earthquake will happen. I think in the future I would try to see if there's a certain time frame that you see more Earthquakes happen and if that can be used to predict when Earthquakes might happen and at what magnitude. I do think trying to predict a magnitude for a certain location is valuable for engineers to make sure what they build is able to survive an Earthquake of that value so things don't get damaged or destroyed when a Earthquake does happen. 
